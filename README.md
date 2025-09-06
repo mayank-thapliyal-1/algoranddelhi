@@ -20,4 +20,5 @@ To get started execute:
 2. `algokit init` - invoke this command inside a github codespace to launch an interactive wizard to guide you through the process of creating a new AlgoKit project
 
 Powered by [Copier templates](https://copier.readthedocs.io/en/stable/).
-(https://github.com/user-attachments/assets/1d740c25-15f0-4066-952b-a856c7ba28e4)
+<img width="1440" height="775" alt="Screenshot 2025-09-06 at 4 38 45 PM" src="https://github.com/user-attachments/assets/ee0b8439-b4fa-4276-94ba-772fb0e077df" />
+
